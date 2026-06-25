@@ -1,4 +1,23 @@
+<h1 align="center">Hi 👋, I'm Muhammed Hisham</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Flutter+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+</p>
+
+<h3 align="center">Building mobile applications with Flutter 🚀</h3>
+   
+   
+  
+   
+   
+   
+   
 ## Hi there 👋
+
 
 
 **hishambinraheem-pixel/hishambinraheem-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -
-<h1 align="center">Hi 👋, I'm Muhammed Hisham</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding GIF">
-</p>
-
-<h3 align="center">Flutter Developer | Mobile App Enthusiast</h3>
