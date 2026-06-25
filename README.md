@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -
+<h1 align="center">Hi 👋, I'm Muhammed Hisham</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding GIF">
+</p>
+
+<h3 align="center">Flutter Developer | Mobile App Enthusiast</h3>
